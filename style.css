@@ -1,0 +1,22 @@
+body {  
+    font-family: Helvetica, Arial, Century;
+    font-size: 12px;
+    margin: 0;
+  }
+  
+  #header {
+    background-color: #ffd727;
+    height: 50px;
+    position: relative;
+    margin: 60px auto 0;
+  }
+  
+  .logo {
+    position: absolute;
+    left: 50%;
+    margin: -48px 0 0 -108px;
+  }
+  
+  @media screen and (max-width: 800px) {
+  }
+    
